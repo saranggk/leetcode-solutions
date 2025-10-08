@@ -2,6 +2,8 @@
 
 ## Grind 75
 
+0/75 completed
+
 ### Week 1
 
 - [ ] Two Sum (Easy) - Array
