@@ -6,7 +6,7 @@
 
 ### Week 1
 
-- [ ] Two Sum (Easy) - Array
+- [x] Two Sum (Easy) - Array
 - [ ] Valid Parentheses (Easy) - Stack
 - [ ] Merge Two Sorted Lists (Easy) - Linked List
 - [ ] Best Time to Buy and Sell Stock (Easy) - Array
