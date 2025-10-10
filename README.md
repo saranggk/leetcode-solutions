@@ -2,12 +2,12 @@
 
 ## Grind 75
 
-0/75 completed
+2/75 completed
 
 ### Week 1
 
 - [x] Two Sum (Easy) - Array
-- [ ] Valid Parentheses (Easy) - Stack
+- [x] Valid Parentheses (Easy) - Stack
 - [ ] Merge Two Sorted Lists (Easy) - Linked List
 - [ ] Best Time to Buy and Sell Stock (Easy) - Array
 - [ ] Valid Palindrome (Easy) - String
