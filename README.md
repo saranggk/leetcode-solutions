@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-5/75 completed
+6/75 completed
 
 ### Week 1
 
@@ -11,7 +11,7 @@
 - [x] Merge Two Sorted Lists (Easy) - Linked List
 - [x] Best Time to Buy and Sell Stock (Easy) - Array
 - [x] Valid Palindrome (Easy) - String
-- [ ] Invert Binary Tree (Easy) - Binary Tree
+- [x] Invert Binary Tree (Easy) - Binary Tree
 - [ ] Valid Anagram (Easy) - String
 - [ ] Binary Search (Easy) - Binary Search
 - [ ] Flood Fill (Easy) - Graph
