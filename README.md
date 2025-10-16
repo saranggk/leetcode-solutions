@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-7/75 completed
+8/75 completed
 
 ### Week 1
 
@@ -13,7 +13,7 @@
 - [x] Valid Palindrome (Easy) - String
 - [x] Invert Binary Tree (Easy) - Binary Tree
 - [x] Valid Anagram (Easy) - String
-- [ ] Binary Search (Easy) - Binary Search
+- [x] Binary Search (Easy) - Binary Search
 - [ ] Flood Fill (Easy) - Graph
 - [ ] Lowest Common Ancestor of a Binary Search Tree (Easy) - Binary Search Tree
 - [ ] Balanced Binary Tree (Easy) - Binary Tree
