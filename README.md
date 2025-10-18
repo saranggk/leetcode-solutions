@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-8/75 completed
+9/75 completed
 
 ### Week 1
 
@@ -14,7 +14,7 @@
 - [x] Invert Binary Tree (Easy) - Binary Tree
 - [x] Valid Anagram (Easy) - String
 - [x] Binary Search (Easy) - Binary Search
-- [ ] Flood Fill (Easy) - Graph
+- [x] Flood Fill (Easy) - Graph
 - [ ] Lowest Common Ancestor of a Binary Search Tree (Easy) - Binary Search Tree
 - [ ] Balanced Binary Tree (Easy) - Binary Tree
 - [ ] Linked List Cycle (Easy) - Linked List
