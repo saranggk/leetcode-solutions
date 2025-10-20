@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-10/75 completed
+11/75 completed
 
 ### Week 1
 
@@ -16,6 +16,6 @@
 - [x] Binary Search (Easy) - Binary Search
 - [x] Flood Fill (Easy) - Graph
 - [x] Lowest Common Ancestor of a Binary Search Tree (Easy) - Binary Search Tree
-- [ ] Balanced Binary Tree (Easy) - Binary Tree
+- [x] Balanced Binary Tree (Easy) - Binary Tree
 - [ ] Linked List Cycle (Easy) - Linked List
 - [ ] Implement Queue using Stacks (Easy) - Stack
