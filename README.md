@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-9/75 completed
+10/75 completed
 
 ### Week 1
 
@@ -15,7 +15,7 @@
 - [x] Valid Anagram (Easy) - String
 - [x] Binary Search (Easy) - Binary Search
 - [x] Flood Fill (Easy) - Graph
-- [ ] Lowest Common Ancestor of a Binary Search Tree (Easy) - Binary Search Tree
+- [x] Lowest Common Ancestor of a Binary Search Tree (Easy) - Binary Search Tree
 - [ ] Balanced Binary Tree (Easy) - Binary Tree
 - [ ] Linked List Cycle (Easy) - Linked List
 - [ ] Implement Queue using Stacks (Easy) - Stack
