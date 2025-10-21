@@ -14,14 +14,13 @@ Space Complexity: O(h)
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def dfs(root) -> [bool, int]:
-            if not root:
-                return [True, 0]
-            left = dfs(root.left)
-            right = dfs(root.right)
-            balanced = (left[0] and right[0] and 
-                        abs(left[1] - right[1]) <= 1)
-            return [balanced, 1 + max(left[1], right[1])]
-        
-        return dfs(root)[0]
-        
+        return self.dfs(root)[0]
+    
+    def dfs(self, root) -> [bool, int]:
+        if not root:
+            return [True, 0]
+        left = self.dfs(root.left)
+        right = self.dfs(root.right)
+        balanced = (left[0] and right[0] and 
+                    abs(left[1] - right[1]) <= 1)
+        return [balanced, 1 + max(left[1], right[1])]
