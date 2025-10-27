@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-12/75 completed
+13/75 completed
 
 ### Week 1
 
@@ -18,4 +18,19 @@
 - [x] Lowest Common Ancestor of a Binary Search Tree (Easy) - Binary Search Tree
 - [x] Balanced Binary Tree (Easy) - Binary Tree
 - [x] Linked List Cycle (Easy) - Linked List
-- [ ] Implement Queue using Stacks (Easy) - Stack
+- [x] Implement Queue using Stacks (Easy) - Stack
+
+### Week 2
+
+- [] First Bad Version (Easy) - Binary Search
+- [] Ransom Note (Easy) - Hash Table
+- [] Climbing Stairs (Easy) - Dynamic Programming
+- [] Longest Palindrome (Easy) - String
+- [] Reverse Linked List (Easy) - Linked List
+- [] Majority Element (Easy) - Array
+- [] Add Binary (Easy) - Binary
+- [] Diameter of Binary Tree (Easy) - Binary Tree
+- [] Middle of the Linked List (Easy) - Linked List
+- [] Maximum Depth of Binary Tree (Easy) - Binary Tree
+- [] Contains Duplicate (Easy) - Array
+- [] Maximum Subarray (Medium) - Dynamic Programming
