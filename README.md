@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-13/75 completed
+14/75 completed
 
 ### Week 1
 
@@ -22,15 +22,15 @@
 
 ### Week 2
 
-- [] First Bad Version (Easy) - Binary Search
-- [] Ransom Note (Easy) - Hash Table
-- [] Climbing Stairs (Easy) - Dynamic Programming
-- [] Longest Palindrome (Easy) - String
-- [] Reverse Linked List (Easy) - Linked List
-- [] Majority Element (Easy) - Array
-- [] Add Binary (Easy) - Binary
-- [] Diameter of Binary Tree (Easy) - Binary Tree
-- [] Middle of the Linked List (Easy) - Linked List
-- [] Maximum Depth of Binary Tree (Easy) - Binary Tree
-- [] Contains Duplicate (Easy) - Array
-- [] Maximum Subarray (Medium) - Dynamic Programming
+- [x] First Bad Version (Easy) - Binary Search
+- [ ] Ransom Note (Easy) - Hash Table
+- [ ] Climbing Stairs (Easy) - Dynamic Programming
+- [ ] Longest Palindrome (Easy) - String
+- [ ] Reverse Linked List (Easy) - Linked List
+- [ ] Majority Element (Easy) - Array
+- [ ] Add Binary (Easy) - Binary
+- [ ] Diameter of Binary Tree (Easy) - Binary Tree
+- [ ] Middle of the Linked List (Easy) - Linked List
+- [ ] Maximum Depth of Binary Tree (Easy) - Binary Tree
+- [ ] Contains Duplicate (Easy) - Array
+- [ ] Maximum Subarray (Medium) - Dynamic Programming
