@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-15/75 completed
+16/75 completed
 
 ### Week 1
 
@@ -24,7 +24,7 @@
 
 - [x] First Bad Version (Easy) - Binary Search
 - [x] Ransom Note (Easy) - Hash Table
-- [ ] Climbing Stairs (Easy) - Dynamic Programming
+- [x] Climbing Stairs (Easy) - Dynamic Programming
 - [ ] Longest Palindrome (Easy) - String
 - [ ] Reverse Linked List (Easy) - Linked List
 - [ ] Majority Element (Easy) - Array
