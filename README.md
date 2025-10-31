@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-17/75 completed
+18/75 completed
 
 ### Week 1
 
@@ -26,7 +26,7 @@
 - [x] Ransom Note (Easy) - Hash Table
 - [x] Climbing Stairs (Easy) - Dynamic Programming
 - [x] Longest Palindrome (Easy) - String
-- [ ] Reverse Linked List (Easy) - Linked List
+- [x] Reverse Linked List (Easy) - Linked List
 - [ ] Majority Element (Easy) - Array
 - [ ] Add Binary (Easy) - Binary
 - [ ] Diameter of Binary Tree (Easy) - Binary Tree
