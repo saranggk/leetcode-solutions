@@ -2,7 +2,7 @@
 
 ## Grind 75
 
-18/75 completed
+19/75 completed
 
 ### Week 1
 
@@ -27,7 +27,7 @@
 - [x] Climbing Stairs (Easy) - Dynamic Programming
 - [x] Longest Palindrome (Easy) - String
 - [x] Reverse Linked List (Easy) - Linked List
-- [ ] Majority Element (Easy) - Array
+- [x] Majority Element (Easy) - Array
 - [ ] Add Binary (Easy) - Binary
 - [ ] Diameter of Binary Tree (Easy) - Binary Tree
 - [ ] Middle of the Linked List (Easy) - Linked List
